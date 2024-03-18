@@ -13,7 +13,7 @@ export default defineNuxtConfig({
         name: "English",
         code: "en",
         iso: "en-US",
-        file: "en.json",
+        file: "en.json5",
       },
       {
         name: "日本語",
