@@ -9,6 +9,11 @@
   },
   "devDependencies": {
     "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@^8.2.0-28512888.f57e208",
-    "nuxt": "latest"
+    "nuxt": "3.11.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "nitropack": "2.9.1"
+    }
   }
 }
